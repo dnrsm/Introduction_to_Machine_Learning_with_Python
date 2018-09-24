@@ -1,4 +1,4 @@
-# [pythonではじめる機械学習](https://www.oreilly.co.jp/books/9784873117980/)
+# [Pythonではじめる機械学習](https://www.oreilly.co.jp/books/9784873117980/)
 1. はじめに
 2. 教師あり学習
 3. 教師なし学習と前処理
